@@ -128,6 +128,7 @@ Questions I solved to practice and learn DSA.
 | [0053-maximum-subarray](https://github.com/MAX5271/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/MAX5271/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MAX5271/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Questions I solved to practice and learn DSA.
 | [0048-rotate-image](https://github.com/MAX5271/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MAX5271/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
 ## Union Find
 |  |
 | ------- |
@@ -163,4 +165,12 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
