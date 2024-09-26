@@ -6,6 +6,7 @@ Questions I solved to practice and learn DSA.
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MAX5271/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MAX5271/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MAX5271/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MAX5271/DSA/tree/master/0162-find-peak-element) |
@@ -15,6 +16,7 @@ Questions I solved to practice and learn DSA.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MAX5271/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MAX5271/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MAX5271/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MAX5271/DSA/tree/master/0162-find-peak-element) |
