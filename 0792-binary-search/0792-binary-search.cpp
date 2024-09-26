@@ -1,24 +1,21 @@
 class Solution {
 public:
-    int search(vector<int>& arr, int x) {
-        int low =0, high = arr.size()-1;
-        while (low <= high) {
-        int mid = low + (high - low) / 2;
-
-        // Check if x is present at mid
-        if (arr[mid] == x)
-            return mid;
-
-        // If x greater, ignore left half
-        if (arr[mid] < x)
-            low = mid + 1;
-
-        // If x is smaller, ignore right half
-        else
-            high = mid - 1;
-    }
-
-    // If we reach here, then element was not present
-    return -1;
+    int search(vector<int>& nums, int target) {
+        int start =0, end = nums.size()-1;
+        if(target == nums[0]) return 0;
+        if(target == nums.back()) return nums.size()-1;
+        while(start<end){
+            int mid = (start+end)/2;
+            if(nums[mid]<target){
+                start=mid+1;
+            }
+            else if(nums[mid]>target){
+                end = mid;
+            }
+            else{
+                return mid;
+            }
+        }
+        return -1;
     }
 };
