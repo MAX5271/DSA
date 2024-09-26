@@ -38,6 +38,7 @@ Questions I solved to practice and learn DSA.
 | [0560-subarray-sum-equals-k](https://github.com/MAX5271/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/MAX5271/DSA/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MAX5271/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MAX5271/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MAX5271/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/MAX5271/DSA/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
@@ -54,9 +55,11 @@ Questions I solved to practice and learn DSA.
 | [0493-reverse-pairs](https://github.com/MAX5271/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MAX5271/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/MAX5271/DSA/tree/master/0792-binary-search) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
 | ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MAX5271/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/MAX5271/DSA/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Divide and Conquer
@@ -104,6 +107,7 @@ Questions I solved to practice and learn DSA.
 | [0169-majority-element](https://github.com/MAX5271/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MAX5271/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +132,7 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MAX5271/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Matrix
 |  |
 | ------- |
@@ -154,4 +159,8 @@ Questions I solved to practice and learn DSA.
 | ------- |
 | [0136-single-number](https://github.com/MAX5271/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
+## Greedy
+|  |
+| ------- |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
