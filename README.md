@@ -18,6 +18,7 @@ Questions I solved to practice and learn DSA.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MAX5271/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MAX5271/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/MAX5271/DSA/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/MAX5271/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MAX5271/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MAX5271/DSA/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/MAX5271/DSA/tree/master/0229-majority-element-ii) |
@@ -82,6 +83,7 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MAX5271/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/MAX5271/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/MAX5271/DSA/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/MAX5271/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
@@ -110,4 +112,8 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MAX5271/DSA/tree/master/0048-rotate-image) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MAX5271/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
