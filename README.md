@@ -11,6 +11,7 @@ Questions I solved to practice and learn DSA.
 | [0033-search-in-rotated-sorted-array](https://github.com/MAX5271/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MAX5271/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MAX5271/DSA/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/MAX5271/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/MAX5271/DSA/tree/master/0056-merge-intervals) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MAX5271/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/MAX5271/DSA/tree/master/0088-merge-sorted-array) |
@@ -92,4 +93,12 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MAX5271/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/MAX5271/DSA/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/MAX5271/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
