@@ -122,6 +122,7 @@ Questions I solved to practice and learn DSA.
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/MAX5271/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/MAX5271/DSA/tree/master/1319-unique-number-of-occurrences) |
+| [1619-path-crossing](https://github.com/MAX5271/DSA/tree/master/1619-path-crossing) |
 ## Counting
 |  |
 | ------- |
@@ -190,6 +191,7 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MAX5271/DSA/tree/master/0125-valid-palindrome) |
+| [1619-path-crossing](https://github.com/MAX5271/DSA/tree/master/1619-path-crossing) |
 ## Enumeration
 |  |
 | ------- |
