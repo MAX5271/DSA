@@ -192,6 +192,7 @@ Questions I solved to practice and learn DSA.
 | ------- |
 | [0125-valid-palindrome](https://github.com/MAX5271/DSA/tree/master/0125-valid-palindrome) |
 | [1619-path-crossing](https://github.com/MAX5271/DSA/tree/master/1619-path-crossing) |
+| [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/MAX5271/DSA/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 ## Enumeration
 |  |
 | ------- |
