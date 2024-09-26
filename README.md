@@ -28,6 +28,7 @@ Questions I solved to practice and learn DSA.
 | [0169-majority-element](https://github.com/MAX5271/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MAX5271/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/MAX5271/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/MAX5271/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/MAX5271/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MAX5271/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -83,6 +84,7 @@ Questions I solved to practice and learn DSA.
 | [0018-4sum](https://github.com/MAX5271/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/MAX5271/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/MAX5271/DSA/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/MAX5271/DSA/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MAX5271/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
