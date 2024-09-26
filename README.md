@@ -7,6 +7,7 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/MAX5271/DSA/tree/master/0162-find-peak-element) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MAX5271/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/MAX5271/DSA/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Binary Search
 |  |
@@ -15,5 +16,6 @@ Questions I solved to practice and learn DSA.
 ## Sliding Window
 |  |
 | ------- |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MAX5271/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/MAX5271/DSA/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 <!---LeetCode Topics End-->
