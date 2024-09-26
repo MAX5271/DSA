@@ -166,6 +166,7 @@ Questions I solved to practice and learn DSA.
 | ------- |
 | [0136-single-number](https://github.com/MAX5271/DSA/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
+| [1054-complement-of-base-10-integer](https://github.com/MAX5271/DSA/tree/master/1054-complement-of-base-10-integer) |
 ## Greedy
 |  |
 | ------- |
