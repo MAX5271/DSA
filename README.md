@@ -27,6 +27,7 @@ Questions I solved to practice and learn DSA.
 | [0540-single-element-in-a-sorted-array](https://github.com/MAX5271/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MAX5271/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/MAX5271/DSA/tree/master/0792-binary-search) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/MAX5271/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MAX5271/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/MAX5271/DSA/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Binary Search
@@ -73,6 +74,7 @@ Questions I solved to practice and learn DSA.
 | [0018-4sum](https://github.com/MAX5271/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/MAX5271/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/MAX5271/DSA/tree/master/0088-merge-sorted-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/MAX5271/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MAX5271/DSA/tree/master/0054-spiral-matrix) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/MAX5271/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
