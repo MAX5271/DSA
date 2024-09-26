@@ -155,6 +155,7 @@ Questions I solved to practice and learn DSA.
 | [0009-palindrome-number](https://github.com/MAX5271/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/MAX5271/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MAX5271/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/MAX5271/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
 ## Union Find
@@ -165,6 +166,7 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/MAX5271/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/MAX5271/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
 | [1054-complement-of-base-10-integer](https://github.com/MAX5271/DSA/tree/master/1054-complement-of-base-10-integer) |
 ## Greedy
@@ -174,6 +176,7 @@ Questions I solved to practice and learn DSA.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/MAX5271/DSA/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
