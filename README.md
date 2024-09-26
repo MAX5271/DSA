@@ -149,6 +149,7 @@ Questions I solved to practice and learn DSA.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/MAX5271/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MAX5271/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/MAX5271/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/MAX5271/DSA/tree/master/0189-rotate-array) |
