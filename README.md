@@ -41,6 +41,7 @@ Questions I solved to practice and learn DSA.
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MAX5271/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MAX5271/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3398-make-a-square-with-the-same-color](https://github.com/MAX5271/DSA/tree/master/3398-make-a-square-with-the-same-color) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MAX5271/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/MAX5271/DSA/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Binary Search
@@ -143,6 +144,7 @@ Questions I solved to practice and learn DSA.
 | [0048-rotate-image](https://github.com/MAX5271/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MAX5271/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MAX5271/DSA/tree/master/0073-set-matrix-zeroes) |
+| [3398-make-a-square-with-the-same-color](https://github.com/MAX5271/DSA/tree/master/3398-make-a-square-with-the-same-color) |
 ## Simulation
 |  |
 | ------- |
@@ -186,4 +188,8 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/MAX5271/DSA/tree/master/0125-valid-palindrome) |
+## Enumeration
+|  |
+| ------- |
+| [3398-make-a-square-with-the-same-color](https://github.com/MAX5271/DSA/tree/master/3398-make-a-square-with-the-same-color) |
 <!---LeetCode Topics End-->
