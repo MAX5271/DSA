@@ -38,6 +38,7 @@ Questions I solved to practice and learn DSA.
 | [0540-single-element-in-a-sorted-array](https://github.com/MAX5271/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MAX5271/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/MAX5271/DSA/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/MAX5271/DSA/tree/master/0907-koko-eating-bananas) |
 | [1319-unique-number-of-occurrences](https://github.com/MAX5271/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MAX5271/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -58,6 +59,7 @@ Questions I solved to practice and learn DSA.
 | [0493-reverse-pairs](https://github.com/MAX5271/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MAX5271/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/MAX5271/DSA/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/MAX5271/DSA/tree/master/0907-koko-eating-bananas) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
