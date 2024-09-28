@@ -2,7 +2,7 @@ class Solution {
 public:
     int minDays(vector<int>& a, int m, int k) {
         if((long long )m*k>a.size()) return -1;
-        int start = *min_element(a.begin(),a.end()), end = *max_element(a.begin(),a.end());
+        int start = 0, end = 1e9;
         int days = INT_MAX;
         while(start<=end){
             int bouquets=0,count=0;
