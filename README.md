@@ -39,6 +39,7 @@ Questions I solved to practice and learn DSA.
 | [0560-subarray-sum-equals-k](https://github.com/MAX5271/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/MAX5271/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MAX5271/DSA/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/MAX5271/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/MAX5271/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MAX5271/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MAX5271/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -62,6 +63,7 @@ Questions I solved to practice and learn DSA.
 | [0540-single-element-in-a-sorted-array](https://github.com/MAX5271/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/MAX5271/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MAX5271/DSA/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/MAX5271/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MAX5271/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MAX5271/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
