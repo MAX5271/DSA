@@ -1,7 +1,7 @@
 class Solution {
 public:
     int shipWithinDays(vector<int>& weights, int days) {
-        int w=INT_MAX,start=1,end=1e8;
+        int w=INT_MAX,start=1,end=6e7;
         while(start<=end){
             int mid = (start+end)/2;
             int d = 1,weight=0;
