@@ -211,6 +211,7 @@ Questions I solved to practice and learn DSA.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/MAX5271/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/MAX5271/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MAX5271/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MAX5271/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -225,4 +226,8 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/MAX5271/DSA/tree/master/1078-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MAX5271/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
