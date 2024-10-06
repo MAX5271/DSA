@@ -181,6 +181,7 @@ Questions I solved to practice and learn DSA.
 | [0231-power-of-two](https://github.com/MAX5271/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/MAX5271/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Union Find
 |  |
 | ------- |
@@ -197,6 +198,7 @@ Questions I solved to practice and learn DSA.
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MAX5271/DSA/tree/master/0410-split-array-largest-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/MAX5271/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -214,6 +216,7 @@ Questions I solved to practice and learn DSA.
 | [1078-remove-outermost-parentheses](https://github.com/MAX5271/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1619-path-crossing](https://github.com/MAX5271/DSA/tree/master/1619-path-crossing) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/MAX5271/DSA/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
+| [2032-largest-odd-number-in-string](https://github.com/MAX5271/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Enumeration
 |  |
 | ------- |
