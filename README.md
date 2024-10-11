@@ -125,6 +125,7 @@ Questions I solved to practice and learn DSA.
 | [0088-merge-sorted-array](https://github.com/MAX5271/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MAX5271/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/MAX5271/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/MAX5271/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
@@ -135,6 +136,7 @@ Questions I solved to practice and learn DSA.
 | [0169-majority-element](https://github.com/MAX5271/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/MAX5271/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/MAX5271/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/MAX5271/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/MAX5271/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/MAX5271/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -216,6 +218,7 @@ Questions I solved to practice and learn DSA.
 | [0125-valid-palindrome](https://github.com/MAX5271/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MAX5271/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/MAX5271/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/MAX5271/DSA/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/MAX5271/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MAX5271/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1619-path-crossing](https://github.com/MAX5271/DSA/tree/master/1619-path-crossing) |
