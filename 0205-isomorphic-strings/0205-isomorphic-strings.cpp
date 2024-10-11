@@ -7,7 +7,7 @@ public:
         for(auto element:t) m.insert(element);
         if(m.size()!=n.size()) return false;
         for(int i=0;i<s.length();i++){
-            if(a.find(s[i])==a.end()) a[s[i]]=t[i];
+            a[s[i]]=t[i];
         }
         string s1="";
         for(int i=0;i<s.length();i++){
