@@ -8,15 +8,21 @@
  */
 class Solution {
 public:
+    
     ListNode *detectCycle(ListNode *head) {
-        unordered_map<ListNode*,int> a;
-        a[head]++;
-        while(head!=NULL){
-            if(a.find(head->next)!=a.end()){
-                return head->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        while(slow!= NULL &&fast!=NULL&&fast->next!=NULL){
+            slow = slow->next;
+            fast=fast->next->next;
+            if(slow==fast){
+                slow=head;
+                while(slow!=fast){
+                    slow=slow->next;
+                    fast=fast->next;
+                }
+                return slow;
             }
-            a[head->next]++;
-            head=head->next;
         }
         return NULL;
     }
