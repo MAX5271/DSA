@@ -9,27 +9,40 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        unordered_map<ListNode*,int> table;
-        ListNode* a = headA;
-        ListNode* b = headB;
-        while(a!=NULL){
-            table[a]++;
-            a=a->next;
+        ListNode* tempa=headA;
+        ListNode* tempb=headB;
+        int ca=0,cb=0;
+        while(tempa!=nullptr) {
+            ca++;
+            tempa=tempa->next;
         }
-        while(b!=NULL){
-            table[b]++;
-            b=b->next;
+        while(tempb!=nullptr){
+            cb++;
+            tempb=tempb->next;
         }
-        a=headA;
-        b=headB;
-        while(a!=NULL){
-            if(table[a]==2) return a;
-            a=a->next;
+        if(ca>cb){
+            int diff=ca-cb;
+            tempa=headA;
+            for(int i=0;i<diff;i++) tempa=tempa->next;
+            tempb=headB;
+            while(tempa!=nullptr&&tempb!=nullptr){
+                if(tempa==tempb) return tempa;
+                tempa=tempa->next;
+                tempb=tempb->next;
+            }
+            return nullptr;
+        }else{
+            int diff=cb-ca;
+            tempa=headA;
+            tempb=headB;
+            for(int i=0;i<diff;i++) tempb=tempb->next;
+            while(tempa!=nullptr&&tempb!=nullptr){
+                if(tempa==tempb) return tempa;
+                tempa=tempa->next;
+                tempb=tempb->next;
+            }
+            return nullptr;
         }
-        while(b!=NULL){
-            if(table[b]==2) return b;
-            b=b->next;
-        }
-        return NULL;
+        return nullptr;
     }
 };
