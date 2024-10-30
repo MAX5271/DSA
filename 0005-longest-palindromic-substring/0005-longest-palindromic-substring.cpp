@@ -13,9 +13,6 @@ public:
                 }
                 else break;
             }
-        }
-
-        for(int i=0;i<s.size();i++){
             for(int j=0;i-j>=0&&i+j+1<s.length();j++){
                 if(s[i-j]==s[i+j+1]){
                     if(2*(j+1)>lo){
