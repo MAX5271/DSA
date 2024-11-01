@@ -250,6 +250,7 @@ Questions I solved to practice and learn DSA.
 | [0451-sort-characters-by-frequency](https://github.com/MAX5271/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/MAX5271/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MAX5271/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/MAX5271/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1619-path-crossing](https://github.com/MAX5271/DSA/tree/master/1619-path-crossing) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MAX5271/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/MAX5271/DSA/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
