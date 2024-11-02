@@ -255,6 +255,7 @@ Questions I solved to practice and learn DSA.
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MAX5271/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/MAX5271/DSA/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/MAX5271/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [2580-circular-sentence](https://github.com/MAX5271/DSA/tree/master/2580-circular-sentence) |
 ## Enumeration
 |  |
 | ------- |
