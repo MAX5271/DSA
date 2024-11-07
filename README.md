@@ -41,6 +41,7 @@ Questions I solved to practice and learn DSA.
 | [0560-subarray-sum-equals-k](https://github.com/MAX5271/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/MAX5271/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/MAX5271/DSA/tree/master/0907-koko-eating-bananas) |
+| [0966-binary-subarrays-with-sum](https://github.com/MAX5271/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MAX5271/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MAX5271/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1319-unique-number-of-occurrences](https://github.com/MAX5271/DSA/tree/master/1319-unique-number-of-occurrences) |
@@ -82,6 +83,7 @@ Questions I solved to practice and learn DSA.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MAX5271/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/MAX5271/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0966-binary-subarrays-with-sum](https://github.com/MAX5271/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MAX5271/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MAX5271/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -168,6 +170,7 @@ Questions I solved to practice and learn DSA.
 | [0424-longest-repeating-character-replacement](https://github.com/MAX5271/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/MAX5271/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/MAX5271/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/MAX5271/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/MAX5271/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1619-path-crossing](https://github.com/MAX5271/DSA/tree/master/1619-path-crossing) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MAX5271/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -192,6 +195,7 @@ Questions I solved to practice and learn DSA.
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MAX5271/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/MAX5271/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/MAX5271/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MAX5271/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Matrix
