@@ -1,7 +1,6 @@
 class Solution {
 public:
     int largestCombination(vector<int>& candidates) {
-        if(candidates.size()==1) return 1;
         vector<bitset<32>> a(candidates.size());
         for(int i=0;i<candidates.size();i++){
             a[i]=candidates[i];
