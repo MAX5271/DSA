@@ -6,7 +6,7 @@ public:
             a[i]=candidates[i];
         }
         vector<int> s;
-        for(int j=0;j<30;j++){
+        for(int j=0;j<29;j++){
             int count=0;
         for(int i=0;i<candidates.size();i++)
         {
