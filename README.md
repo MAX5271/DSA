@@ -87,6 +87,7 @@ Questions I solved to practice and learn DSA.
 | [0966-binary-subarrays-with-sum](https://github.com/MAX5271/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MAX5271/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MAX5271/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/MAX5271/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MAX5271/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/MAX5271/DSA/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
@@ -175,6 +176,7 @@ Questions I solved to practice and learn DSA.
 | [0966-binary-subarrays-with-sum](https://github.com/MAX5271/DSA/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/MAX5271/DSA/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MAX5271/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/MAX5271/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1619-path-crossing](https://github.com/MAX5271/DSA/tree/master/1619-path-crossing) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MAX5271/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Counting
@@ -278,6 +280,7 @@ Questions I solved to practice and learn DSA.
 | [0812-rotate-string](https://github.com/MAX5271/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MAX5271/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MAX5271/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/MAX5271/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1619-path-crossing](https://github.com/MAX5271/DSA/tree/master/1619-path-crossing) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MAX5271/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/MAX5271/DSA/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
