@@ -2,7 +2,7 @@ class Solution {
 public:
     int diff(vector<int>&nums,int k){
         if(k<0) return 0;
-        map<int , int> count;
+        unordered_map<int , int> count;
         int start=0,end=0,c=0;
         while(end<nums.size()){
             count[nums[end]]=end;
