@@ -204,6 +204,7 @@ Questions I solved to practice and learn DSA.
 | [0118-pascals-triangle](https://github.com/MAX5271/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MAX5271/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/MAX5271/DSA/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/MAX5271/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
@@ -261,6 +262,7 @@ Questions I solved to practice and learn DSA.
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/MAX5271/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/MAX5271/DSA/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/MAX5271/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/MAX5271/DSA/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/MAX5271/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -290,6 +292,7 @@ Questions I solved to practice and learn DSA.
 | [0242-valid-anagram](https://github.com/MAX5271/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/MAX5271/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/MAX5271/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/MAX5271/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/MAX5271/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MAX5271/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MAX5271/DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -310,6 +313,7 @@ Questions I solved to practice and learn DSA.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MAX5271/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/MAX5271/DSA/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/MAX5271/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/MAX5271/DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MAX5271/DSA/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
