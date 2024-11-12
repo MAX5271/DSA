@@ -1,27 +1,29 @@
 class Solution {
 public:
     int myAtoi(string s) {
-        int i = 0, num = 0, sign = 1;
-
-        while (s[i] == ' ') {
-            i++;
-        }
-        if(s[i]=='-') {sign=0;i++;}
-        else if(s[i]=='+'){
-            sign=1;
-            i++;
-        }
+        if(s==""||s[0]!=' '&&s[0]!='-'&&s[0]!='+'&&(s[0]<'0'&&s[0]>'9')) return 0;
+        int i=0;
+        while(s[i]==' ') i++;
         
-        for (; i < s.length() && s[i] >= '0' && s[i] <= '9'; i++) {
-            if ((long long)num * 10 - (long long)(s[i] - '0')<= INT_MIN)
-                return INT_MIN;
-            else if ((long long)num * 10 + (long long)(s[i] - '0')>= INT_MAX)
-                return INT_MAX;
-            if (sign) {
-                num = num * 10 + (int)(s[i] - '0');
-            } else
-                num = num * 10 - (int)(s[i] - '0');
+        int sign=0;
+        if(s[i]=='-'){
+            sign=-1;
+            i++;
+        }else if(s[i]=='+'){
+            i++;
         }
-        return num;
+        int len=0;
+        while(i+len<s.length()&&s[i+len]>='0'&&s[i+len]<='9') len++;
+        if(len==0) return 0;
+        s=s.substr(i,len);
+        int num=myAtoi(s.substr(0,s.length()-1));
+        if(sign==0){
+        if((long)num*10+(int)(s[s.length()-1]-'0')>=INT_MAX) num = INT_MAX;
+        else num=num*10+(int)(s[s.length()-1]-'0');}
+        else{
+            if((long)num*10+(int)(s[s.length()-1]-'0')>=(long)INT_MAX+1) return INT_MIN;
+            else num=num*10+(int)(s[s.length()-1]-'0');
+        }
+        return (sign==0)?num:-1*num;
     }
 };
