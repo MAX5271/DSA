@@ -257,6 +257,7 @@ Questions I solved to practice and learn DSA.
 | [0231-power-of-two](https://github.com/MAX5271/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
 | [1054-complement-of-base-10-integer](https://github.com/MAX5271/DSA/tree/master/1054-complement-of-base-10-integer) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/MAX5271/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MAX5271/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MAX5271/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Greedy
