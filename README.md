@@ -13,6 +13,7 @@ Questions I solved to practice and learn DSA.
 | [0033-search-in-rotated-sorted-array](https://github.com/MAX5271/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MAX5271/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MAX5271/DSA/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/MAX5271/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/MAX5271/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MAX5271/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MAX5271/DSA/tree/master/0054-spiral-matrix) |
@@ -204,6 +205,7 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/MAX5271/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/MAX5271/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/MAX5271/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MAX5271/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/MAX5271/DSA/tree/master/0118-pascals-triangle) |
@@ -267,6 +269,7 @@ Questions I solved to practice and learn DSA.
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/MAX5271/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MAX5271/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/MAX5271/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/MAX5271/DSA/tree/master/0455-assign-cookies) |
