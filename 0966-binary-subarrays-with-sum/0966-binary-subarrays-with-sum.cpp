@@ -9,7 +9,7 @@ public:
                 
             
                 while(sum>goal){
-                    if(nums[start++]==1) sum--;
+                    sum-=nums[start++];
                 }
             count+=end-start+1;
             end++;
