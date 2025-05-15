@@ -61,6 +61,7 @@ Questions I solved to practice and learn DSA.
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MAX5271/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MAX5271/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MAX5271/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MAX5271/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3398-make-a-square-with-the-same-color](https://github.com/MAX5271/DSA/tree/master/3398-make-a-square-with-the-same-color) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MAX5271/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -216,6 +217,7 @@ Questions I solved to practice and learn DSA.
 | [0410-split-array-largest-sum](https://github.com/MAX5271/DSA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/MAX5271/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MAX5271/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Questions I solved to practice and learn DSA.
 | [0890-lemonade-change](https://github.com/MAX5271/DSA/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/MAX5271/DSA/tree/master/2032-largest-odd-number-in-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MAX5271/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Recursion
 |  |
 | ------- |
@@ -317,6 +320,7 @@ Questions I solved to practice and learn DSA.
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/MAX5271/DSA/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2032-largest-odd-number-in-string](https://github.com/MAX5271/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2580-circular-sentence](https://github.com/MAX5271/DSA/tree/master/2580-circular-sentence) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MAX5271/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/MAX5271/DSA/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/MAX5271/DSA/tree/master/3451-string-compression-iii) |
 ## Enumeration
