@@ -1,15 +1,22 @@
 class Solution {
 public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
-        for(int i=0;i<(int)pow(2,nums.size());i++){
-            vector<int> temp;
-            bitset <32> n(i);
-            for(int j=0;j<nums.size();j++){
-                if(n[j]==1) temp.push_back(nums[j]);
-            }
-            ans.push_back(temp);
+    vector<vector<int>> ans;
+    vector<int> temp;
+    void cal(int i, vector<int>& a) {
+        if (i >= a.size()) {
+            return;
         }
+
+        temp.push_back(a[i]);
+        ans.push_back(temp);
+        cal(i + 1, a);
+        temp.pop_back();
+        cal(i + 1, a);
+    }
+    vector<vector<int>> subsets(vector<int>& nums) {
+        vector<int> er;
+        ans.push_back(er);
+        cal(0,nums);
         return ans;
     }
 };
