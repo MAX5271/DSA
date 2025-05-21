@@ -254,6 +254,7 @@ Questions I solved to practice and learn DSA.
 | [0189-rotate-array](https://github.com/MAX5271/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/MAX5271/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/MAX5271/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MAX5271/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/MAX5271/DSA/tree/master/2032-largest-odd-number-in-string) |
@@ -268,6 +269,7 @@ Questions I solved to practice and learn DSA.
 | [0136-single-number](https://github.com/MAX5271/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/MAX5271/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/MAX5271/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1054-complement-of-base-10-integer](https://github.com/MAX5271/DSA/tree/master/1054-complement-of-base-10-integer) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/MAX5271/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MAX5271/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -291,6 +293,7 @@ Questions I solved to practice and learn DSA.
 | [0206-reverse-linked-list](https://github.com/MAX5271/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/MAX5271/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/MAX5271/DSA/tree/master/0234-palindrome-linked-list) |
+| [0795-k-th-symbol-in-grammar](https://github.com/MAX5271/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
