@@ -37,6 +37,7 @@ Questions I solved to practice and learn DSA.
 | [0229-majority-element-ii](https://github.com/MAX5271/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MAX5271/DSA/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/MAX5271/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/MAX5271/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/MAX5271/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/MAX5271/DSA/tree/master/0485-max-consecutive-ones) |
@@ -77,6 +78,7 @@ Questions I solved to practice and learn DSA.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MAX5271/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/MAX5271/DSA/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/MAX5271/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/MAX5271/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/MAX5271/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MAX5271/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -215,6 +217,7 @@ Questions I solved to practice and learn DSA.
 | [0055-jump-game](https://github.com/MAX5271/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/MAX5271/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MAX5271/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0300-longest-increasing-subsequence](https://github.com/MAX5271/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/MAX5271/DSA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/MAX5271/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
