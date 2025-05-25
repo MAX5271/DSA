@@ -38,6 +38,7 @@ Questions I solved to practice and learn DSA.
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MAX5271/DSA/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/MAX5271/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/MAX5271/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/MAX5271/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/MAX5271/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/MAX5271/DSA/tree/master/0485-max-consecutive-ones) |
@@ -218,6 +219,7 @@ Questions I solved to practice and learn DSA.
 | [0118-pascals-triangle](https://github.com/MAX5271/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MAX5271/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/MAX5271/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/MAX5271/DSA/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/MAX5271/DSA/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/MAX5271/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
@@ -388,4 +390,8 @@ Questions I solved to practice and learn DSA.
 | ------- |
 | [0022-generate-parentheses](https://github.com/MAX5271/DSA/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/MAX5271/DSA/tree/master/0078-subsets) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/MAX5271/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
