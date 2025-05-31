@@ -6,7 +6,7 @@ public:
     void cal(int k,int n,vector<int>& temp,int num){
         if(n<0) return;
         if(n==0&&k==0){
-            if(find(ans.begin(),ans.end(),temp)==ans.end())
+            // if(find(ans.begin(),ans.end(),temp)==ans.end())
                 ans.push_back(temp);
                 return;
         }
