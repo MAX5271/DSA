@@ -37,6 +37,7 @@ Questions I solved to practice and learn DSA.
 | [0162-find-peak-element](https://github.com/MAX5271/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/MAX5271/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/MAX5271/DSA/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/MAX5271/DSA/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/MAX5271/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MAX5271/DSA/tree/master/0283-move-zeroes) |
@@ -417,6 +418,7 @@ Questions I solved to practice and learn DSA.
 | [0040-combination-sum-ii](https://github.com/MAX5271/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MAX5271/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/MAX5271/DSA/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/MAX5271/DSA/tree/master/0216-combination-sum-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
