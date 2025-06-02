@@ -28,6 +28,7 @@ Questions I solved to practice and learn DSA.
 | [0075-sort-colors](https://github.com/MAX5271/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MAX5271/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MAX5271/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/MAX5271/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/MAX5271/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/MAX5271/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/MAX5271/DSA/tree/master/0118-pascals-triangle) |
@@ -364,6 +365,7 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MAX5271/DSA/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/MAX5271/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0225-implement-stack-using-queues](https://github.com/MAX5271/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/MAX5271/DSA/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/MAX5271/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -426,4 +428,8 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/MAX5271/DSA/tree/master/0322-coin-change) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MAX5271/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
