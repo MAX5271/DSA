@@ -73,6 +73,7 @@ Questions I solved to practice and learn DSA.
 | [2271-rearrange-array-elements-by-sign](https://github.com/MAX5271/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MAX5271/DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MAX5271/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/MAX5271/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MAX5271/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3398-make-a-square-with-the-same-color](https://github.com/MAX5271/DSA/tree/master/3398-make-a-square-with-the-same-color) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MAX5271/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -180,6 +181,7 @@ Questions I solved to practice and learn DSA.
 | [0451-sort-characters-by-frequency](https://github.com/MAX5271/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/MAX5271/DSA/tree/master/0455-assign-cookies) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/MAX5271/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MAX5271/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
@@ -309,6 +311,7 @@ Questions I solved to practice and learn DSA.
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/MAX5271/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MAX5271/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/MAX5271/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Recursion
 |  |
 | ------- |
