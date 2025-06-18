@@ -11,8 +11,8 @@ public:
                 temp.push_back(a[i+2]);
                 ans.push_back(temp);
             }else{
-                ans.clear();
-                break;
+                vector<vector<int>> temp;
+                return temp;
             }
         }
         return ans;
