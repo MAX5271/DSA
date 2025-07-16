@@ -76,6 +76,7 @@ Questions I solved to practice and learn DSA.
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MAX5271/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MAX5271/DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3398-make-a-square-with-the-same-color](https://github.com/MAX5271/DSA/tree/master/3398-make-a-square-with-the-same-color) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MAX5271/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MAX5271/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/MAX5271/DSA/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Binary Search
@@ -241,6 +242,7 @@ Questions I solved to practice and learn DSA.
 | [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/MAX5271/DSA/tree/master/1250-longest-common-subsequence) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MAX5271/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MAX5271/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Prefix Sum
 |  |
 | ------- |
