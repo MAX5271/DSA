@@ -67,6 +67,7 @@ Questions I solved to practice and learn DSA.
 | [1370-count-number-of-nice-subarrays](https://github.com/MAX5271/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/MAX5271/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MAX5271/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MAX5271/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MAX5271/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/MAX5271/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/MAX5271/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -115,6 +116,7 @@ Questions I solved to practice and learn DSA.
 | [1370-count-number-of-nice-subarrays](https://github.com/MAX5271/DSA/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MAX5271/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MAX5271/DSA/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MAX5271/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MAX5271/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/MAX5271/DSA/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
@@ -242,6 +244,7 @@ Questions I solved to practice and learn DSA.
 | [0747-min-cost-climbing-stairs](https://github.com/MAX5271/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/MAX5271/DSA/tree/master/1250-longest-common-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/MAX5271/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MAX5271/DSA/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MAX5271/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Prefix Sum
