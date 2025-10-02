@@ -272,6 +272,7 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MAX5271/DSA/tree/master/0054-spiral-matrix) |
+| [1642-water-bottles](https://github.com/MAX5271/DSA/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MAX5271/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -289,6 +290,7 @@ Questions I solved to practice and learn DSA.
 | [0795-k-th-symbol-in-grammar](https://github.com/MAX5271/DSA/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/MAX5271/DSA/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MAX5271/DSA/tree/master/1370-count-number-of-nice-subarrays) |
+| [1642-water-bottles](https://github.com/MAX5271/DSA/tree/master/1642-water-bottles) |
 | [2032-largest-odd-number-in-string](https://github.com/MAX5271/DSA/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/MAX5271/DSA/tree/master/2050-count-good-numbers) |
 ## Union Find
