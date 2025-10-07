@@ -60,6 +60,7 @@ Questions I solved to practice and learn DSA.
 | [0890-lemonade-change](https://github.com/MAX5271/DSA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/MAX5271/DSA/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/MAX5271/DSA/tree/master/0966-binary-subarrays-with-sum) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/MAX5271/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1034-subarrays-with-k-different-integers](https://github.com/MAX5271/DSA/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/MAX5271/DSA/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/MAX5271/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -185,6 +186,7 @@ Questions I solved to practice and learn DSA.
 | [0268-missing-number](https://github.com/MAX5271/DSA/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/MAX5271/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/MAX5271/DSA/tree/master/0455-assign-cookies) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/MAX5271/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/MAX5271/DSA/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3291-find-if-array-can-be-sorted](https://github.com/MAX5271/DSA/tree/master/3291-find-if-array-can-be-sorted) |
@@ -272,6 +274,7 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MAX5271/DSA/tree/master/0054-spiral-matrix) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/MAX5271/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1642-water-bottles](https://github.com/MAX5271/DSA/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/MAX5271/DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3336-water-bottles-ii](https://github.com/MAX5271/DSA/tree/master/3336-water-bottles-ii) |
@@ -430,6 +433,7 @@ Questions I solved to practice and learn DSA.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MAX5271/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/MAX5271/DSA/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Backtracking
 |  |
 | ------- |
