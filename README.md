@@ -83,6 +83,7 @@ Questions I solved to practice and learn DSA.
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/MAX5271/DSA/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MAX5271/DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/MAX5271/DSA/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/MAX5271/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@ Questions I solved to practice and learn DSA.
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/MAX5271/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/MAX5271/DSA/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/MAX5271/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/MAX5271/DSA/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Sliding Window
 |  |
 | ------- |
